@@ -4,6 +4,7 @@ An exploratory data analysis (EDA) and data visualization pipeline built in Pyth
 
 ## 🎯 Objective
 To extract actionable match-up dynamics, phase-based team intent, and individual batter profiles from raw delivery datasets using advanced Pandas aggregation and Plotly visualizations.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1591U29WYyRk6IPe8qgvgg-6D4dJvdoPt?usp=sharing)
 
 ## 🛠️ Tech Stack
 * **Language:** Python
